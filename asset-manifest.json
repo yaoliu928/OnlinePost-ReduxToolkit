@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OnlinePost-ReduxToolkit/static/css/main.1fb54a98.css",
+    "main.js": "/OnlinePost-ReduxToolkit/static/js/main.c9ab4481.js",
+    "static/js/787.d55543c4.chunk.js": "/OnlinePost-ReduxToolkit/static/js/787.d55543c4.chunk.js",
+    "index.html": "/OnlinePost-ReduxToolkit/index.html",
+    "main.1fb54a98.css.map": "/OnlinePost-ReduxToolkit/static/css/main.1fb54a98.css.map",
+    "main.c9ab4481.js.map": "/OnlinePost-ReduxToolkit/static/js/main.c9ab4481.js.map",
+    "787.d55543c4.chunk.js.map": "/OnlinePost-ReduxToolkit/static/js/787.d55543c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fb54a98.css",
+    "static/js/main.c9ab4481.js"
+  ]
+}
