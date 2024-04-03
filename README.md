@@ -1,4 +1,4 @@
-## Automotive-Website-Dashboard
+## Online Post App
 
 ### [Live Demo](https://yaoliu928.github.io/OnlinePost-ReduxToolkit/)
 
